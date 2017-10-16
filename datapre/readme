@@ -1,0 +1,5 @@
+All the datasets are the results of Stanford Pareser. The original datasets are textual similarity datasets.
+Thus,
+**-1.txt -- the first sentences of sentences pairs
+**-2.txt -- the second sentences of sentences pairs
+**-score.txt -- the scores of the sentences pairs
