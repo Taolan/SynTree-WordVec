@@ -1,0 +1,6 @@
+ROOT 1
+S 1
+SBAR 0.9
+SBARQ 0.9
+SINV 0.1
+SQ 0.1
