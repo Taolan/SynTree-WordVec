@@ -1,4 +1,4 @@
-All the datasets are the results of Stanford Pareser. The original datasets are textual similarity datasets.
+All the datasets are parsed by Stanford Parser. The original datasets are textual similarity datasets.
 Thus,
 **-1.txt -- the first sentences of sentences pairs
 **-2.txt -- the second sentences of sentences pairs
